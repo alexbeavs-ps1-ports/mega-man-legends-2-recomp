@@ -23,6 +23,10 @@ generated game code, or saved game.
 | Supported dump | Redump `Mega Man Legends 2 (Europe).cue` as CUE/BIN or CHD |
 | BIOS | SCPH-5552 (Europe), 524288 bytes, SHA-256 `1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09` |
 
+<!-- release-standard:bios -->
+**BIOS:** SCPH-5552 (Europe) retail BIOS, 524288 bytes, SHA-256 `1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09`. Supply your own dump; releases do not use OpenBIOS.
+<!-- /release-standard:bios -->
+
 ## Setup
 
 1. Download the setup ZIP for your platform from [Releases](https://github.com/Alexbeav/mega-man-legends-2-recomp/releases)

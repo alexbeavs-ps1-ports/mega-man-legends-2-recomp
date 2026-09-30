@@ -90,6 +90,7 @@ exec bash "${PACKAGER}" \
   --recompiler-build "${RECOMPILER_BUILD}" \
   --version-env RELEASE_VERSION \
   --disc-hint "your legally owned Mega Man Legends 2 (Europe) disc" \
+  --bios-hint "your own SCPH-5552 (Europe) BIOS dump (524288 bytes; SHA-256 1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09)" \
   --runtime-dir mods \
   --project-file CMakeLists.txt \
   --project-file project-manifest.toml \
